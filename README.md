@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asoraledecnal
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... c++
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... veteran programmers
 - 📫 How to reach me ... you can email me in lanceedwarddelarosa@gmail.com
 - 😄 Pronouns: ... He
